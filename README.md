@@ -56,7 +56,7 @@ After identification, the application displays detailed information including:
 
 ---
 
-# ✨ Features
+# Features
 
 ## AI Pokémon Recognition
 
