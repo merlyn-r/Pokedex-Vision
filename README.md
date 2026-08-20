@@ -16,8 +16,6 @@ Watch the complete application workflow:
 
 [Watch the Demo Video](https://drive.google.com/file/d/1mzXyZ5fkmaL7lIodjlnXbdu8TgCyjkbu/view?usp=drive_link)
 
-> GitHub may not play large MP4 files directly inside the README. If that happens, upload the video separately to the repository and/or use a GitHub Release, YouTube, or Google Drive link.
-
 ---
 
 ##  Screenshots
